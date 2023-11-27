@@ -32,7 +32,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f8ec2975f18d5e479159feb34b4dc86, type: 3}
   m_Name: MixedRealityFeaturePlugin WSA
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Mixed Reality Features
   version: 1.9.0
   featureIdInternal: com.microsoft.openxr.feature.hololens
@@ -171,6 +171,7 @@ MonoBehaviour:
   - {fileID: -2129917356990958304}
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_symmetricProjection: 0
 --- !u!114 &-5721105506272695278
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -485,6 +486,7 @@ MonoBehaviour:
   - {fileID: 8311858716715522170}
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_symmetricProjection: 0
 --- !u!114 &-2391563861891341948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -719,6 +721,10 @@ MonoBehaviour:
     manifestName: cambria
     enabled: 1
   forceRemoveInternetPermission: 1
+  symmetricProjection: 0
+  systemSplashScreen: {fileID: 0}
+  lateLatchingMode: 0
+  lateLatchingDebug: 0
 --- !u!114 &-870640236192867403
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -952,6 +958,7 @@ MonoBehaviour:
   features: []
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_symmetricProjection: 0
 --- !u!114 &2578600793767538914
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1009,6 +1016,7 @@ MonoBehaviour:
   - {fileID: 9155487571139455336}
   m_renderMode: 1
   m_depthSubmissionMode: 0
+  m_symmetricProjection: 0
 --- !u!114 &3038400532808808060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1041,7 +1049,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c79c911b38743a649b1c1eddb5097202, type: 3}
   m_Name: HandTrackingFeaturePlugin WSA
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Hand Tracking
   version: 1.9.0
   featureIdInternal: com.microsoft.openxr.feature.handtracking
@@ -1172,7 +1180,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c8f1ce8139888c4ab621f6b3c8bb558, type: 3}
   m_Name: MotionControllerFeaturePlugin WSA
   m_EditorClassIdentifier: 
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Motion Controller Model
   version: 1.9.0
   featureIdInternal: com.microsoft.openxr.feature.controller
