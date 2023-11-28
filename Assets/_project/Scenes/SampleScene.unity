@@ -457,6 +457,11 @@ PrefabInstance:
       propertyPath: scroolScreen
       value: 
       objectReference: {fileID: 860641974}
+    - target: {fileID: 2412314041177171234, guid: c69ba70acfac2644f9e20d7b4869aba6,
+        type: 3}
+      propertyPath: scroolScreenUI
+      value: 
+      objectReference: {fileID: 8066193642528068985}
     - target: {fileID: 3433950038144837117, guid: c69ba70acfac2644f9e20d7b4869aba6,
         type: 3}
       propertyPath: transformOverride
@@ -933,6 +938,18 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74b310031cfe14b43a8d15faf85845c0, type: 3}
+--- !u!114 &8066193642528068985 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2353140442230917552, guid: 74b310031cfe14b43a8d15faf85845c0,
+    type: 3}
+  m_PrefabInstance: {fileID: 8066193642528068984}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860641974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5932f9134c1f4f0e9f3fa171b50a5e2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -503,6 +503,7 @@ MonoBehaviour:
   scroolScreen: {fileID: 0}
   currentObject: {fileID: 0}
   contentTransform: {fileID: 2747662828754408640}
+  scroolScreenUI: {fileID: 0}
 --- !u!4 &8440330345240648559 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8927709776431750152, guid: 9a7c24f281a2c3d45a9b8befe608bf77,
