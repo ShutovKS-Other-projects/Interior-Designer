@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: new ItemData 3
   m_EditorClassIdentifier: 
   name: Item
-  styleType: 1
+  styleType: 2
   roomType: 1
-  prefab: {fileID: 5601481253263248772, guid: e52dc42b0ecbc1b4dbcdcd3f62d7d394, type: 3}
+  prefab: {fileID: 756393775970670674, guid: 9faf4cd00bd6c9a47a5e198513f54d09, type: 3}
