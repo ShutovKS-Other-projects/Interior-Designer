@@ -35,15 +35,9 @@ public class SpawnOrNoUI : MonoBehaviour
         var rigidbody = currentObject.GetComponent<Rigidbody>();
 
         rigidbody.isKinematic = false;
+        rigidbody.useGravity = true;
 
-        // ManipulationEvent manipulationStarted = new();
-        // ManipulationEvent manipulationEnded = new();
-        //
-        // manipulationStarted.AddListener((_) => rigidbody.isKinematic = true);
-        // manipulationEnded.AddListener((_) => rigidbody.isKinematic = false);
-        //
-        // currentObject.GetComponent<ObjectManipulator>().OnManipulationStarted = manipulationStarted;
-        // currentObject.GetComponent<ObjectManipulator>().OnManipulationEnded = manipulationEnded;
+        currentObject.transform.localScale = currentObject.transform.localScale * 4;
 
         currentObject = null;
 

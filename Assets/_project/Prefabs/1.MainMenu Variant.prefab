@@ -122,12 +122,12 @@ PrefabInstance:
     - target: {fileID: 1305400959061624163, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}
       propertyPath: maxDistance
-      value: 0.45
+      value: 0.55
       objectReference: {fileID: 0}
     - target: {fileID: 1305400959061624163, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}
       propertyPath: minDistance
-      value: 0.35
+      value: 0.55
       objectReference: {fileID: 0}
     - target: {fileID: 1305400959061624163, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}
@@ -202,7 +202,7 @@ PrefabInstance:
     - target: {fileID: 3709843273248546277, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}
       propertyPath: additionalOffset.x
-      value: -0.1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4171842289279430742, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}

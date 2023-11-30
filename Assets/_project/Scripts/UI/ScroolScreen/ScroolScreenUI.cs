@@ -55,6 +55,7 @@ public class ScroolScreenUI : MonoBehaviour
         instance.AddComponent<NearInteractionGrabbable>();
         instance.AddComponent<ObjectManipulator>();
         instance.AddComponent<Rigidbody>().isKinematic = true;
+        instance.GetComponent<Rigidbody>().useGravity = false;
 
         // var interactable = instance.AddComponent<Interactable>();
         // interactable.OnClick.AddListener(() => InstanceObject(itemData.prefab));

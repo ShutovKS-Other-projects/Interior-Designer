@@ -395,7 +395,7 @@ PrefabInstance:
     - target: {fileID: 6581697109868584590, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}
       propertyPath: additionalOffset.x
-      value: -0.1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7457904603363729046, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}
@@ -591,12 +591,12 @@ PrefabInstance:
     - target: {fileID: 8806603437482837512, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}
       propertyPath: maxDistance
-      value: 0.45
+      value: 0.55
       objectReference: {fileID: 0}
     - target: {fileID: 8806603437482837512, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}
       propertyPath: minDistance
-      value: 0.35
+      value: 0.55
       objectReference: {fileID: 0}
     - target: {fileID: 8806603437482837512, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}
