@@ -911,6 +911,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6581697109868584590, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581697109868584590, guid: 4cc25867f13a101459aeac0807dc2d30,
+        type: 3}
       propertyPath: additionalOffset.x
       value: 0
       objectReference: {fileID: 0}
@@ -1193,7 +1198,7 @@ PrefabInstance:
     - target: {fileID: 8806603437482837512, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8806603437482837512, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}
@@ -1209,6 +1214,16 @@ PrefabInstance:
         type: 3}
       propertyPath: fixedVerticalPosition
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8845082974641273491, guid: 4cc25867f13a101459aeac0807dc2d30,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8845082974641273491, guid: 4cc25867f13a101459aeac0807dc2d30,
+        type: 3}
+      propertyPath: autoFollowAtDistance
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8881792011993923807, guid: 4cc25867f13a101459aeac0807dc2d30,
         type: 3}

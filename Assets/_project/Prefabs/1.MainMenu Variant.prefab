@@ -117,7 +117,7 @@ PrefabInstance:
     - target: {fileID: 1305400959061624163, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1305400959061624163, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}
@@ -133,6 +133,16 @@ PrefabInstance:
         type: 3}
       propertyPath: fixedVerticalPosition
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1363161809169529336, guid: e969038e4d67d9b498de2ef538969506,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1363161809169529336, guid: e969038e4d67d9b498de2ef538969506,
+        type: 3}
+      propertyPath: autoFollowAtDistance
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1398533357116605364, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}
@@ -198,6 +208,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3709843273248546277, guid: e969038e4d67d9b498de2ef538969506,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3709843273248546277, guid: e969038e4d67d9b498de2ef538969506,
         type: 3}
