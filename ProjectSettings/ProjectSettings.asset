@@ -837,11 +837,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Interior Designer
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00868b86ad41db01
   metroApplicationDescription: Interior Designer
   wsaImages: {}
   metroTileShortName: 

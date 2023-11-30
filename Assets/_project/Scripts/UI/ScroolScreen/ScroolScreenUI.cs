@@ -18,9 +18,9 @@ public class ScroolScreenUI : MonoBehaviour
     private void Start()
     {
         itemDataArray = Resources.LoadAll<ItemData>("Data");
-            
+
         exitButton.OnClick.AddListener(OpenStyleMenu);
-        
+
         gameObject.SetActive(false);
     }
 
@@ -36,7 +36,7 @@ public class ScroolScreenUI : MonoBehaviour
                 CreatedCreatedButton(itemData);
             }
         }
-        
+
         gridObjectCollection.UpdateCollection();
     }
 
@@ -48,20 +48,28 @@ public class ScroolScreenUI : MonoBehaviour
     private void CreatedCreatedButton(ItemData itemData)
     {
         var instance = Instantiate(itemData.prefab, contentTransform);
-        
+
         buttons.Add(instance);
-        
-        var interactable = instance.AddComponent<Interactable>();
-        
-        interactable.OnClick.AddListener(() => InstanceObject(itemData.prefab));
-        
+
+        instance.AddComponent<ConstraintManager>();
+        instance.AddComponent<NearInteractionGrabbable>();
+        instance.AddComponent<ObjectManipulator>();
+        instance.AddComponent<Rigidbody>().isKinematic = true;
+
+        // var interactable = instance.AddComponent<Interactable>();
+        // interactable.OnClick.AddListener(() => InstanceObject(itemData.prefab));
+
+        ManipulationEvent manipulationStarted = new();
+        manipulationStarted.AddListener((_) => InstanceObject(itemData.prefab));
+        instance.GetComponent<ObjectManipulator>().OnManipulationStarted = manipulationStarted;
+
         instance.SetActive(true);
     }
 
     private void InstanceObject(GameObject prefab)
     {
         var spawnOrNoUI = spawnOrNo.GetComponent<SpawnOrNoUI>();
-        
+
         spawnOrNoUI.currentObject = Instantiate(prefab, spawnOrNoUI.contentTransform);
 
         spawnOrNoUI.currentObject.AddComponent<ConstraintManager>();
@@ -70,25 +78,25 @@ public class ScroolScreenUI : MonoBehaviour
         spawnOrNoUI.currentObject.AddComponent<Rigidbody>().isKinematic = true;
 
         spawnOrNo.SetActive(true);
-        
+
         gameObject.SetActive(false);
     }
 
     private void OpenStyleMenu()
     {
         RemoveAllButton();
-        
+
         gameObject.SetActive(false);
-        
+
         styleMenu.SetActive(true);
     }
-    
+
     private void RemoveAllButton()
     {
         while (buttons.Count > 0)
         {
             Destroy(buttons[0]);
-           
+
             buttons.RemoveAt(0);
         }
     }
