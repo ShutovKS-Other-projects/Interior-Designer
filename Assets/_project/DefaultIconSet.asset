@@ -35,6 +35,15 @@ MonoBehaviour:
   - {fileID: 2800000, guid: 559e1da0e65611c4f93ec931e1e6a8a2, type: 3}
   - {fileID: 2800000, guid: d6a8d6d764af76740ad06383ee810941, type: 3}
   - {fileID: 2800000, guid: ac8550a474419054d9621216812fd098, type: 3}
+  - {fileID: 2800000, guid: 79e7abc3292895f42a48d748b124d5ba, type: 3}
+  - {fileID: 2800000, guid: 8542c77003585b64092f346b79f468ab, type: 3}
+  - {fileID: 2800000, guid: 6b15d67d26553754e8c527a99807b504, type: 3}
+  - {fileID: 2800000, guid: 111a63ff509978f40960a46bf8b7250e, type: 3}
+  - {fileID: 2800000, guid: 6f835572d600dbe49a9945eb07f32703, type: 3}
+  - {fileID: 2800000, guid: 977a6381d4a5ef6409065f23f0c818f9, type: 3}
+  - {fileID: 2800000, guid: 34d609dfca1d9014cbc258fc6056f354, type: 3}
+  - {fileID: 2800000, guid: 34d609dfca1d9014cbc258fc6056f354, type: 3}
+  - {fileID: 2800000, guid: bacbf939fe7dfcf4ca1fd5688c5e7fe6, type: 3}
   spriteIcons: []
   charIconFont: {fileID: 0}
   charIcons:

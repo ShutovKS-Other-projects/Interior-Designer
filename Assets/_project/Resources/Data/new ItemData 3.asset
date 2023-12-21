@@ -15,4 +15,4 @@ MonoBehaviour:
   name: Item
   styleType: 2
   roomType: 1
-  prefab: {fileID: 756393775970670674, guid: 9faf4cd00bd6c9a47a5e198513f54d09, type: 3}
+  prefab: {fileID: 100002, guid: 4df135dcff5ef7b488faeec987a0fe1c, type: 3}

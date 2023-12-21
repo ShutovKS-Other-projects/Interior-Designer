@@ -44,5 +44,7 @@ public class SpawnOrNoUI : MonoBehaviour
         gameObject.SetActive(false);
 
         scroolScreen.SetActive(true);
+
+        scroolScreenUI.UpdateCollection();
     }
 }
