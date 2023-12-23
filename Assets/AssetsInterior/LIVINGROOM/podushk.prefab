@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1667542743153837683}
   - component: {fileID: 6807291153975554949}
   - component: {fileID: 6783685173657320592}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: podushk
   m_TagString: Untagged
   m_Icon: {fileID: 0}

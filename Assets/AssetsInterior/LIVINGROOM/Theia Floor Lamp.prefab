@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 5426348871673406191}
   - component: {fileID: 3589303959295533645}
   - component: {fileID: 2692537351642916394}
-  m_Layer: 0
+  - component: {fileID: 9195482997552703143}
+  m_Layer: 6
   m_Name: Theia Floor Lamp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26,13 +27,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6013206202936282287}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.976296, y: -0.21643972, z: -0.00000019007226, w: 0.00000085736013}
-  m_LocalPosition: {x: 0.9845892, y: 0.254, z: -2.257}
-  m_LocalScale: {x: -1.0000001, y: -1.0000001, z: -1}
-  m_ConstrainProportionsScale: 0
+  m_LocalRotation: {x: -0.6903456, y: 0.15304591, z: 0.15304591, w: 0.6903456}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.065, y: 0.065, z: 0.065}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 25}
 --- !u!33 &3589303959295533645
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -86,3 +87,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &9195482997552703143
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6013206202936282287}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.31660926, y: 0.31641853, z: 1.1626607}
+  m_Center: {x: -0.00009544887, y: -0.00000022448086, z: 0.58133036}

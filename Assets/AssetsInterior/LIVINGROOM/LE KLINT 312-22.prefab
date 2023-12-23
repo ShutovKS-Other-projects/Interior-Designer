@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1066580964643063099}
   - component: {fileID: 7174677840022195264}
   - component: {fileID: 7261981082283912047}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LE KLINT 312-22
   m_TagString: Untagged
   m_Icon: {fileID: 0}

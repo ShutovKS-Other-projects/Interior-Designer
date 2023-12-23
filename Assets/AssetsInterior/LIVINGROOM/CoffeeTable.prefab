@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 960518335167245611}
   - component: {fileID: 8311322838209237940}
   - component: {fileID: 2838840074219223603}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane.012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 5247628648928529955}
   - component: {fileID: 1500540687142057757}
   - component: {fileID: 6236919404147133571}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane.011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -177,7 +177,7 @@ GameObject:
   - component: {fileID: 48743045268286989}
   - component: {fileID: 5340468927547114413}
   - component: {fileID: 4138125614196350644}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane.010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -259,7 +259,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2226531189428928204}
   - component: {fileID: 805367226428101366}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: CoffeeTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -276,8 +276,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.06, y: 1.06, z: 1.06}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.065, y: 0.065, z: 0.065}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 48743045268286989}
   - {fileID: 5247628648928529955}

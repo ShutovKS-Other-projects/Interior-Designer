@@ -19,6 +19,8 @@ public class SpawnOrNoUI : MonoBehaviour
 
     private void No()
     {
+
+
         Destroy(currentObject);
 
         gameObject.SetActive(false);

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731715, g: 0.13414735, b: 0.121078536, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -755,7 +755,7 @@ PrefabInstance:
     - target: {fileID: 1620946891068741106, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.2
+      value: 0.23
       objectReference: {fileID: 0}
     - target: {fileID: 1620946891068741106, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}
@@ -1163,6 +1163,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 2929777997026032613, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 2929777997478718059, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}
       propertyPath: m_Layer
@@ -1415,6 +1420,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 3649776811930217716, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 3649776811963991737, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}
       propertyPath: m_Layer
@@ -1509,6 +1519,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3880430053171226278, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3880430053171226330, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}
@@ -1629,6 +1644,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4575534576194684694, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4575534576194684778, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}
@@ -2215,6 +2235,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 6472651832656230812, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6472651832656230880, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}
       propertyPath: m_Layer
@@ -2461,6 +2486,31 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 7824833591799664112, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: radius
+      value: 0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824833591799664112, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: distance
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824833591799664112, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: cellWidth
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824833591799664112, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: cellHeight
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7824833591799664112, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: surfaceType
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7857277686551541463, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}
       propertyPath: m_Layer
@@ -2540,6 +2590,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8203253991743005410, guid: 7dcd92fdd68a04449b67a1941fc5a251,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 8203253991925717009, guid: 7dcd92fdd68a04449b67a1941fc5a251,
         type: 3}

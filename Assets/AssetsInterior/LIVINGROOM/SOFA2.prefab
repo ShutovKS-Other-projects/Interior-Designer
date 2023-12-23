@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8692268101277258956}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: pillow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,7 +42,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 772091848974894959}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: clan sofa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75,7 +75,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4518301909114862387}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape069
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1084264567569708294}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: pillow002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -141,7 +141,7 @@ GameObject:
   - component: {fileID: 6890104413677772170}
   - component: {fileID: 1213541048750171191}
   - component: {fileID: 5775241006299787675}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape074
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: 4441908253807730753}
   - component: {fileID: 4565837735426638764}
   - component: {fileID: 6427238173046458271}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Line008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -305,7 +305,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6123619366136449490}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: SOFA2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -343,7 +343,7 @@ GameObject:
   - component: {fileID: 8822407036664364714}
   - component: {fileID: 3000645740411658029}
   - component: {fileID: 2273135036793494896}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape070
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -426,7 +426,7 @@ GameObject:
   - component: {fileID: 308706816686014648}
   - component: {fileID: 2052728453010265109}
   - component: {fileID: 4031624280131463338}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plane001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -510,7 +510,7 @@ GameObject:
   - component: {fileID: 2875279224010211538}
   - component: {fileID: 5742940717597534992}
   - component: {fileID: 2388677137050467285}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape077
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -591,7 +591,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6609738560585690537}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Lawrence clan 004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -625,7 +625,7 @@ GameObject:
   - component: {fileID: 6751528883920383262}
   - component: {fileID: 6050012879111679908}
   - component: {fileID: 972495921400157839}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: song
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -709,7 +709,7 @@ GameObject:
   - component: {fileID: 2849942060575979317}
   - component: {fileID: 2423769915618261382}
   - component: {fileID: 5354633322568422912}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Object057
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -793,7 +793,7 @@ GameObject:
   - component: {fileID: 8477853325722818496}
   - component: {fileID: 7248300353495293187}
   - component: {fileID: 9047850204439105335}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Object054
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -875,7 +875,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6787139011238302298}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Group007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -908,7 +908,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4091474393030924992}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Group006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -943,7 +943,7 @@ GameObject:
   - component: {fileID: 5206447652287483412}
   - component: {fileID: 1470255411488124888}
   - component: {fileID: 755874082299247500}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1024,7 +1024,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2365519013522523782}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: pillow 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1059,7 +1059,7 @@ GameObject:
   - component: {fileID: 2534235244504748912}
   - component: {fileID: 367402375268930405}
   - component: {fileID: 8869054150773098819}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape017
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1142,7 +1142,7 @@ GameObject:
   - component: {fileID: 891333049726330756}
   - component: {fileID: 4648197629449355369}
   - component: {fileID: 2069098075550421353}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape064
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1225,7 +1225,7 @@ GameObject:
   - component: {fileID: 3519450015031742886}
   - component: {fileID: 8779176019331294747}
   - component: {fileID: 6398501392856963395}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Object055
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1307,7 +1307,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3507629174217027009}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: clan sofa001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1342,7 +1342,7 @@ GameObject:
   - component: {fileID: 5069838757671690766}
   - component: {fileID: 6841278460008163372}
   - component: {fileID: 6478999109023668605}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Line029
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1425,7 +1425,7 @@ GameObject:
   - component: {fileID: 8594177188235098100}
   - component: {fileID: 4422114673340156635}
   - component: {fileID: 7375131046828739252}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape076
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1508,7 +1508,7 @@ GameObject:
   - component: {fileID: 283204611255423145}
   - component: {fileID: 7079745215164675219}
   - component: {fileID: 2890506514653220206}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Line026
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1589,7 +1589,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6174300710851431018}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Group008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1622,7 +1622,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1685512667017364619}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: clan sofa002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1655,7 +1655,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9001709110895497391}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: clan 6
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4020088359484167578}
   - component: {fileID: 4718697478967019051}
   - component: {fileID: 6501220982806848657}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Cylinder461
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 5353267214690649606}
   - component: {fileID: 641899953851032649}
   - component: {fileID: 8463911656334238672}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Box614
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -177,7 +177,7 @@ GameObject:
   - component: {fileID: 1543732691854159524}
   - component: {fileID: 4766631022435920810}
   - component: {fileID: 8482902333228509287}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Kay
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +260,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3822266267974420869}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: tumba`
   m_TagString: Untagged
   m_Icon: {fileID: 0}

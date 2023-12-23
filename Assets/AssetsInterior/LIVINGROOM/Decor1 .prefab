@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5138811712298601981}
   - component: {fileID: 7595528949660140511}
   - component: {fileID: 9183489338011297747}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rectangle001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 8113191115460871979}
   - component: {fileID: 2924267440056159397}
   - component: {fileID: 491702258367914167}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Shape066
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,7 +178,7 @@ GameObject:
   - component: {fileID: 6526703640808948444}
   - component: {fileID: 2074574593680146831}
   - component: {fileID: 3647095390669757698}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: bottle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -259,7 +259,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7164295767618147154}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 'Decor1 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
